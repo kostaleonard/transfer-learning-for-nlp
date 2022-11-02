@@ -1,0 +1,5 @@
+numpy
+pandas
+notebook
+nltk
+scikit-learn
