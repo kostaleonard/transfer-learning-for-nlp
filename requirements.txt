@@ -3,3 +3,4 @@ pandas
 notebook
 nltk
 scikit-learn
+matplotlib

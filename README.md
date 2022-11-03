@@ -15,3 +15,9 @@ tab. You can also run the author's code directly on Kaggle.
 I will mostly preserve the author's choices for code style to maintain
 consistency with the book, even if I might have organized things a little
 differently.
+
+## Conda environments
+
+The global [requirements.txt](requirements.txt) is the default conda
+environment. If a notebook requires a different conda environment, the chapter
+README will provide instructions.
