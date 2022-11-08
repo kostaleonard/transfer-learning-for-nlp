@@ -19,5 +19,5 @@ differently.
 ## Conda environments
 
 The global [requirements.txt](requirements.txt) is the default conda
-environment. If a notebook requires a different conda environment, the chapter
-README will provide instructions.
+environment and runs on Python 3.9. If a notebook requires a different conda
+environment, the chapter README will provide instructions.

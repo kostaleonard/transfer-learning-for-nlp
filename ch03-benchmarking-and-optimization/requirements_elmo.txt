@@ -1,0 +1,10 @@
+numpy
+pandas
+notebook
+nltk
+scikit-learn
+matplotlib
+keras==2.2.4
+tensorflow==1.14.0
+tensorflow_hub
+protobuf==3.7.1
